@@ -1,2 +1,2 @@
 # delta
-demo on repository
+demo on repository.
